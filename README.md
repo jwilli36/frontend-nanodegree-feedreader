@@ -1,4 +1,5 @@
 # Project 6 FeederReader
+Joffrey Williams
 
 
 FeederReader tests your code to ensure the Code functions as Expected.
